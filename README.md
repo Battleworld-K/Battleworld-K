@@ -10,3 +10,5 @@ url:https://docs.google.com/document/d/1V0Iau0q9eGB89pc921ELxjOkusv3AVetjNY7oDsG
 url: https://docs.google.com/document/d/1Ev9rOkgQKX9I67v-sqsa4w5t7CCDXJV4xnjGJBCDIBo/edit
 20/06/2021: Star wind and WindTree
 url:https://docs.google.com/document/d/16ZiW5qdYXWwDYIfHb4BTu2urdBjGLSrv4tvnEgqsc_I/edit
+27/06/2021: Gearbox design
+url:https://docs.google.com/document/d/1oseABswW9QZ-zQHP23XxxYY9Wa6WYVoaQB3IekR_QhU/edit#
